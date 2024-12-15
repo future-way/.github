@@ -1,12 +1,62 @@
-## Hi there 👋
+# Poten Day 412기 🐤 내일찾기 팀
+-----
 
-<!--
+## 기획
 
-**Here are some ideas to get you started:**
+### 뭐 해 먹고 살아야 할지 모르겠는 대학생을 위한 진로 상담 서비스!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+대학생 10명중 6명이 진로와 취업에 불안감을 느끼는 대2병을 앓고있어요. 하지만 성인대상 진로 상담 비용은 회당 n만원으로 부담스러운 가격이에요 😢
+진로 고민 별 맞춤 상담을 통해 허니버드가 당신이 가고 싶은 길을 안내해줄 거에요!
+
+
+### 누구를 위한 서비스 인가요?
+
+1. 어떤 길로 가야 할지 구체적인 진로가 정해지지 않아 혼란스러운 분 (타입A. 혼란 형)
+2. 정해진 진로는 있지만 확신이 없어 걱정스러운 분 (타입 B. 망설임 형)
+3. 결정한 목표를 이루기 위해 무엇을 준비해야 할지 모르겠는 분 (타입 C. 막막 형)
+
+
+### 무엇을 얻을 수 있나요?
+
+1. 홀랜드 적성검사와 사용자의 전공 활용 여부를 기반으로 흥미와 적성을 탐색할 수 있어요! (타입A. 혼란 형)
+  - 흥미 탐색 과정
+    1. 사용자의 전공을 알아보고 전공 활용 여부를 물어봐요.
+    2. 홀랜드 적성 유형 검사 기반 (현실형, 탐구형, 예술형, 진취형, 관습형) 6가지 성격 분류로 사용자를 분류되요. 여러 번의 질문을 통해 유형을 나눠요.
+      (단, 실제 홀랜드 적성 유형검사가 아닌, 참고용 간이 검사 정도로.)
+    4. 6가지 성격 분류를 통해 직업군을 세분화 하고 그 직업군과 전공을 매칭시켜 추천 직업을 선정해요.
+    5. 사용자의 질문에 따라 추천 직업을 변경하고 다른 직업을 추천해요.
+    6. 사용자가 직업에 대해 더 구체적으로 물어보면 그에 대해 답변해요.
+1. 관심 있는 분야에 대해 세부적인 직업이 무엇이 있는지 알아볼 수 있어요. (타입A. 혼란 형)
+2. 내가 진로를 합리적인 의사 결정을 통해 정했는지 검토해볼 수 있어요. (타입 B. 망설임 형)
+3. 결정한 직업을 갖기 위해 무엇을 준비해야 하는지 알아볼 수 있어요. (타입 C. 막막 형)
+4. 상담 결과를 요약해서 확인할 수 있어요.
+
+
+### 이 프로젝트는 왜 진행하게 되었나요?
+
+1. 대학생 64.6%가 대2병을 앓고 있다고 답변. 진로, 취업등에 심리적 불안감을 느끼는 대학생들이 많아요.
+2. 진로 컨설팅 비용 시간당 평균 n만원으로 부담스러운 가격이에요.
+  (보도자료: http://www.gokmu.com/news/article.html?no=16304)
+
+내일 찾기에서 제공해주는 AI 상담 서비스를 통해 비용없이 간편하게 상담을 진행할 수 있어요!
+
+
+-----
+## 디자인
+
+
+
+-----
+## 개발
+
+### 시스템 아키텍쳐 설계
+![image](https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7)
+
+
+### 시퀸스 다이어그램.
+![image](https://github.com/user-attachments/assets/f4139f81-9211-4f59-bca2-ad58c9eac53a)
+
+
+### ERD
+![image](https://github.com/user-attachments/assets/00d94f7a-0dfb-479d-8756-3a41b7baa632)
+
