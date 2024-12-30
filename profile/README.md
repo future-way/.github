@@ -67,10 +67,7 @@
 <img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="600" height="360"/>
 
 
-### 시퀸스 다이어그램.
-<img src="https://github.com/user-attachments/assets/f4139f81-9211-4f59-bca2-ad58c9eac53a" width="440" height="450"/>
+### [시퀀스다이어그램](https://github.com/future-way/back/blob/main/docs/sequence.md)
 
 
-### ERD
-<img src="https://github.com/user-attachments/assets/00d94f7a-0dfb-479d-8756-3a41b7baa632" width="700" height="320"/>
-
+### [ERD](https://github.com/future-way/back/blob/main/docs/erd.md)
