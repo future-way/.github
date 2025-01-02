@@ -66,8 +66,3 @@
 ### 시스템 아키텍쳐 설계
 <img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="600" height="360"/>
 
-
-### [시퀀스다이어그램](https://github.com/future-way/back/blob/main/docs/sequence.md)
-
-
-### [ERD](https://github.com/future-way/back/blob/main/docs/erd.md)
