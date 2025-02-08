@@ -43,9 +43,14 @@
 
 ## [내일찾기](https://find-your-day.duckdns.org/home) 서비스 화면
 ![웹 소개 사이트](https://github.com/user-attachments/assets/2ef75f7f-945a-4077-a8f7-14ec8142092f)
+![사용자 유형 파악](https://github.com/user-attachments/assets/e68cac24-7471-457c-9df8-59ad663b13c7)
+![AI 채팅 상담](https://github.com/user-attachments/assets/0baa4a75-0124-4af2-b231-ef3e57aaf9af)
+![상담 결과 카드](https://github.com/user-attachments/assets/99d66db0-0a39-4888-8254-61d8d6a37762)
+
 
 ## 시스템 아키텍처
-<img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="600" height="360"/>  
+<img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="900" height="580"/>  
+
 
 ## 시스템 설계 문서
 - [ERD](https://github.com/future-way/back/blob/main/docs/erd.md)  
