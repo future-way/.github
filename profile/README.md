@@ -49,7 +49,7 @@
 
 
 ## 시스템 아키텍처
-<img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="900" height="580"/>  
+<img src="https://github.com/user-attachments/assets/1f903a09-3cb9-49fe-8f87-42fd94792ba7" width="900" height="520"/>  
 
 
 ## 시스템 설계 문서
